@@ -4,4 +4,6 @@ project(SimpleX_O)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(SimpleX_O
-        Main.cpp)
+        Main.cpp
+        TicTacToe.cpp
+        TicTacToe.h)

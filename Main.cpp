@@ -1,7 +1,7 @@
-#include <iostream>
+#include "TicTacToe.h"
 
 int main() {
-    std::cout << "testing" << std::endl;
-    std::cout << "wow C++ o_o";
+    TicTacToe game;
+    game.startGame();
     return 0;
 }

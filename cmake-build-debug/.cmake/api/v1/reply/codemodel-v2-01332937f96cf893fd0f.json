@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "SimpleX_O::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SimpleX_O-Debug-40e3e216d3c3585d4768.json",
+					"jsonFile" : "target-SimpleX_O-Debug-71e3ce14aa49dfd4a690.json",
 					"name" : "SimpleX_O",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/3lvin/Documents/GitHub/SimpleX-O/cmake-build-debug",
-		"source" : "C:/Users/3lvin/Documents/GitHub/SimpleX-O"
+		"build" : "C:/Users/3lvin/Desktop/Personal Coding Projects/C++ Projects/SimpleX-O/cmake-build-debug",
+		"source" : "C:/Users/3lvin/Desktop/Personal Coding Projects/C++ Projects/SimpleX-O"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 7
 	}
 }
